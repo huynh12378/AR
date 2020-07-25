@@ -7,4 +7,4 @@ Tiềm năng kết hợp điện thoại thông minh và thực tế Augmented c
 Ngày nay chúng ta có thể tìm thấy một số ví dụ tuyệt vời về thực tế tăng cường trong giáo dục trên toàn thế giới. Khả năng kết nối thực tế và nội dung số đã được cải thiện đều đặn, mở ra nhiều lựa chọn hơn cho giáo viên và học sinh.
 Thực tế mở rộng trong giáo dục sẽ sớm ảnh hưởng đến quá trình học tập thông thường. AR có khả năng thay đổi địa điểm và thời gian nghiên cứu, để giới thiệu những cách thức và phương pháp mới và bổ sung. Khả năng của công nghệ thực tế Augmented có thể làm cho các lớp hấp dẫn hơn và thông tin dễ hiểu hơn.
 Các nhà giáo dục biết rằng quá trình học tập nên là tất cả về sự sáng tạo và tương tác. Mặc dù giáo viên không nhất thiết phải tuyển dụng tất cả sinh viên vào khoa học, mục tiêu của họ là khiến họ hứng thú với một môn học. Đó là nơi mà AR có thể có ích.
-Để hiểu rõ hơn về công nghệ Augmented Reality - Thực tế Tăng cường (AR), nhóm em sẽ trình bày qua phần báo cáo dưới đây:
+Để hiểu rõ hơn về công nghệ Augmented Reality - Thực tế Tăng cường (AR) và cách công nghệ này áp dụng trong giáo dục nhóm em sẽ trình bày qua Microsoft Sway
